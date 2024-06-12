@@ -1,5 +1,4 @@
 import css from "./Profile.module.css";
-console.log(css);
 
 const Profile = ({
   username,
